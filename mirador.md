@@ -1,4 +1,4 @@
-# This page will show the Universal Viewer and my Manifest
+# This page will show a Mirador Gallery
 
 This is a short intro and the viewer will appear below:
 
