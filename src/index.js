@@ -12,7 +12,7 @@ const config = {
     id: 'demo',
     windows: [],
     workspace: {
-        type: "elastic"
+        type: "mosaic"
     }
 };
 
