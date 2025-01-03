@@ -5,3 +5,4 @@ https://www.loc.gov/item/74693173/manifest.json
 https://www.loc.gov/item/74693175/manifest.json
 https://www.loc.gov/item/74693178/manifest.json
 https://purl.stanford.edu/tw367mz1194/iiif/manifest
+https://www.loc.gov/item/74693169/manifest.json
