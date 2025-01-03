@@ -1,5 +1,5 @@
 https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~240~20049/manifest
-https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~280~30140/manifest
+https://purl.stanford.edu/fz074vg4070/iiif/manifest
 https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~222~20037/manifest
 https://www.loc.gov/item/74693173/manifest.json
 https://www.loc.gov/item/74693175/manifest.json
