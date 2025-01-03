@@ -1,4 +1,3 @@
-https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~240~20049/manifest
 https://purl.stanford.edu/fz074vg4070/iiif/manifest
 https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~1005~50014/manifest
 https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~222~20037/manifest
