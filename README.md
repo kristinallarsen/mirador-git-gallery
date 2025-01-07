@@ -1,3 +1,7 @@
+# Noodling around with Mirador
+
+Part of my experiments with online IIIF galleries. Original README text follows.
+
 # Mirador on GH Pages
 
 This repository deploys a basic installation of [Mirador](https://projectmirador.org/) 3 on GitHub Pages.
